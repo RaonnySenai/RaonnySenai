@@ -1,6 +1,6 @@
 #🖥️ Raonny de Souza
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor iniciante`**
 
 Me chamo Raonny de Souza Gomes,  sou natural do Piaui. Atualamente estou cursando o curso técnico em informática no SENAI. 
 <p align="left">
